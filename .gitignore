@@ -1,4 +1,10 @@
 .env
+.venv/
 reference/
 data/prompts.json
 **/.DS_Store
+.vscode
+__pycache__/
+**/__pycache__/
+data/raw/*.jsonl
+data/processed/*.jsonl
